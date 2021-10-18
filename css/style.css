@@ -1,0 +1,20 @@
+html {
+  font-family: "Times New Roman", Times, serif;
+}
+em {
+  color: red;
+  font-style: normal;
+  font-weight: bold;
+}
+a {
+  margin-right: 10px;
+}
+img {
+  width: 100px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 10px;
+}
+.imgtitle {
+  font-weight: bold;
+}
